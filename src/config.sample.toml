@@ -8,7 +8,7 @@ AccessKey = "YOUR_ACCESS_KEY"
   SecretKey = "azyehq3ivunjhbntz78isj00i4hz2mt9xtddysfucxakadq4qbfrt0b7q3lnvg80"
   Name = "CHAT_SESSION_ID"
   Path = "/"
-  Domain = ""
+  Domain = "8.218.7.174"
   MaxAge = 86400
   Secure = false
   HttpOnly = false
@@ -20,7 +20,7 @@ AccessKey = "YOUR_ACCESS_KEY"
 
 [Manager]
   Username = "admin"
-  Password = "admin123"
+  Password = "445397"
 
 [Chat]
   ApiURL = "https://api.openai.com/v1/chat/completions"
@@ -31,5 +31,5 @@ AccessKey = "YOUR_ACCESS_KEY"
   ChatContextExpireTime = 3600
 
   [[Chat.ApiKeys]]
-    Value = "YOUR_OPENAI_API_KEY"
+    Value = "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"
     LastUsed = 0
